@@ -47,3 +47,25 @@ footer {
     background: #333;
     color: #fff;
 }
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+h1, h2 {
+    color: #2a9d8f;
+}
+.project {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+a {
+    color: #e76f51;
+    text-decoration: none;
+    font-weight: bold;
+}
